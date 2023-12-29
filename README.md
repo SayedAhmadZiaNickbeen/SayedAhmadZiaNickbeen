@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayed Ahmad Zia Nickbeen</h1>
-<h3 align="center">A frontend developer from in Madrid,Spain.</h3>
+<h3 align="center">A frontend developer in Madrid,Spain.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/07/front-end-developer.jpg">
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript ...**
