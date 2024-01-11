@@ -1,6 +1,6 @@
 <img align="cneter" width="100%"  src="https://res.cloudinary.com/practicaldev/image/fetch/s--qc_GPsrm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y932df8rdy0bwn1jzdrq.jpg">
 <h1 align="center">Hi 👋, I'm Sayed Ahmad Zia Nickbeen</h1>
-<h3 align="center">A frontend developer in Madrid,Spain.</h3>
+<h3 align="center">A FrontEnd Developer in Madrid,Spain.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.aceinfoway.com/blog/wp-content/uploads/2020/07/front-end-developer.jpg">
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript ...**
